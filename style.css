@@ -1,0 +1,79 @@
+p{
+	font-size: 18px;
+}
+
+h1 {
+	margin-left: 39%;
+    color: white;
+}
+
+span {
+	font-size: 15px;
+    margin-left: 45%;
+    color: white;
+}
+
+.style1 {
+	background-color: #0DEF42;
+    height: 180px;
+}
+
+.headerstyle {
+	border: 2px solid white;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.sidebar {
+  height: 700px;
+  width: 200px;
+  top: 0;
+  float: left;
+  margin-left: 100px;
+  background-color: #CDCDCD;
+  padding-top: 16px;
+}
+.main {
+	text-align: left;
+	text-indent: 20px;
+}
+
+.sidebar a {
+  color: black;
+}
+
+.sidebar p {
+	font-size: 16px;
+}
+
+.sidebar img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*.sidebar a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  display: block;
+}
+
+.sidebar a:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav 
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+
+#818181*/
